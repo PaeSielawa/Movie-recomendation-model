@@ -1,8 +1,8 @@
 # Configuration settings for the movie recommendation system
 
-# API keys
-LETTERBOXD_API_KEY = 'your_letterboxd_api_key_here'
+# Scraping settings
+REQUEST_TIMEOUT = 10  # seconds
+RATE_LIMIT_DELAY = 1  # seconds between requests
 
-# File paths
-DATA_FILE_PATH = 'src/data/movies_data.csv'
-USER_RATINGS_FILE_PATH = 'src/data/user_ratings.csv'
+# Model settings
+DEFAULT_NUM_RECOMMENDATIONS = 5
