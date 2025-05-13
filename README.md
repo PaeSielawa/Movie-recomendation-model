@@ -22,6 +22,7 @@ movie-recommendation-system
 │   ├── test_data_loader.py
 │   ├── test_preprocessor.py
 │   └── test_recommender.py
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
@@ -30,7 +31,7 @@ movie-recommendation-system
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/PaeSielawa/Movie-recomendation-model>
    ```
 2. Navigate to the project directory:
    ```
@@ -54,4 +55,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License.
+This project was created by PS. All rights reserved.
