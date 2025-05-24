@@ -31,7 +31,7 @@ movie-recommendation-system
 
 1. Clone the repository:
    ```
-   git clone <https://github.com/PaeSielawa/Movie-recomendation-model>
+   git clone <https://github.com/PawelSiwiela/Movie-recomendation-model>
    ```
 2. Navigate to the project directory:
    ```
